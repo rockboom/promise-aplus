@@ -1,0 +1,23 @@
+{
+  "name": "promise-aplus",
+  "version": "1.0.0",
+  "description": "This is a repo implements promise/A+ specification.",
+  "main": "index.js",
+  "scripts": {
+    "test":"jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rockboom/promise-aplus.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rockboom/promise-aplus/issues"
+  },
+  "homepage": "https://github.com/rockboom/promise-aplus#readme",
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }
+}

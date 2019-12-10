@@ -1,2 +1,2 @@
-# promise-aplus
-This is a repo implements promise/A+ specification.
+# Promise/A+
+This is a repository implements promise/A+ specification.
